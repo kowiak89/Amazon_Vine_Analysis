@@ -16,3 +16,4 @@ From the analysis we obtained the following results:
   * Percent of 5 star Non-Vine Reviews: 48.0%
 
 ## Summary:
+From the results we can clearly see that there is no positivity bias among vine reviewers given that their percentage of 5 star reviews is lower than the non paid reviewers.  If there was positivity bias we would have seen the percentage of 5 star reviews to be significantly higher than the non-vine reviewers.  While this analysis showed that there is no positivity bias for 5 star reviews it does not show the full picture.  Perhaps there is bias that can only be demonstrated if all star ratings levels are analyzed.  A future analysis that scored all rating levels would be more predictive of any positivity bias for the paid vine reviewers.
